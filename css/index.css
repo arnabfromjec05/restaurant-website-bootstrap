@@ -43,3 +43,8 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+/* 
+[data-toggle="tooltip"] {
+    color: red;
+    background-color: white;
+} */
