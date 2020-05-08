@@ -1,7 +1,7 @@
 # restaurant-website-bootstrap
 
-It's a sample website using HTML,CSS and Bootstrap which restaurant can
-use for their boilerplate.
+It's a sample website using HTML,CSS and Bootstrap which is run on LiteServer (Node Package) and can be used by any
+restaurant as their boilerplate.
 
 To run the application:
 1. Clone it in a local directory
